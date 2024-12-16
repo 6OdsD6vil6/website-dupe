@@ -31,5 +31,5 @@ Ethical Considerations
 This tool is for educational purposes only. Please ensure you have permission to clone the websites and log the IP addresses of visitors you target. ```
 5. Running the Tool
 Once everything is set up, you can run the tool:
-python3 website_dupe.py
+python3 website_dupe.py :)
 
